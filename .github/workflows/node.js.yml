@@ -10,9 +10,9 @@ on:
     branches: [ "main" ]
 
 jobs:
-  build:  npm i @vercel/analytics
+  build: 
 
-    
+    runs on: ubuntu-lastest
 
     strategy:
       matrix:
