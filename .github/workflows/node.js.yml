@@ -12,7 +12,7 @@ on:
 jobs:
   build:  npm i @vercel/analytics
 
-    runs-on: ubuntu-latest
+    
 
     strategy:
       matrix:
